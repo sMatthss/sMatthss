@@ -8,20 +8,6 @@
 
 ° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>MySQL</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
 
-<div align="center">
-  <hr>
-
-  <a href="https://github.com/sMatthss">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sMatthss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Matheus's GitHub Stats"/>
-  </a>
-  
-  <a href="https://github.com/sMatthss">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-  
-  <hr>
-</div>
-
 <h2 align="center">Linguagens e ferramentas</h2>
 
 <p align="center">
