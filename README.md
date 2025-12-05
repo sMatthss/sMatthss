@@ -6,12 +6,12 @@
 
 ° 🎓 Também estudando no <strong>Instituto PROA</strong>.
 
-° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
+° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>MySQL</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
 
 <div align="center">
   <hr>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sMatthss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   <hr>
 </div>
