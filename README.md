@@ -10,9 +10,11 @@
 
 <div align="center">
   <hr>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sMatthss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  [![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sMatthss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/sMatthss)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=7&theme=vision-friendly-dark)](https://github.com/sMatthss)
+  
   <hr>
 </div>
 
