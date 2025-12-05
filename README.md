@@ -10,10 +10,14 @@
 
 <div align="center">
   <hr>
+
+  <a href="https://github.com/sMatthss">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sMatthss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Matheus's GitHub Stats"/>
+  </a>
   
-  [![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sMatthss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/sMatthss)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=7&theme=vision-friendly-dark)](https://github.com/sMatthss)
+  <a href="https://github.com/sMatthss">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
   
   <hr>
 </div>
