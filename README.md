@@ -8,6 +8,8 @@
 
 ° 🚀 Buscando aprender sempre mais sobre <strong>Python</strong>, <strong>MySQL</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
 
+---
+
 <div align="center">
 
 <!-- Estatísticas Públicas -->
@@ -15,6 +17,8 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sMatthss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
 
 <h2 align="center">Linguagens e ferramentas</h2>
 
@@ -24,6 +28,10 @@
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
+<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/react/react-original.svg"/>
+<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/github/github-original.svg"/>
+<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/git/git-original.svg"/>
+
 </p>
 
 <div align="center"> 
